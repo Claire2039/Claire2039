@@ -82,12 +82,13 @@ fun_fact: "做过一条会发光的霓虹贪吃蛇 🐍"
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Claire2039&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=00CED1&text_color=C9D1D9&ring_color=8A2BE2"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claire2039&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF1493&text_color=C9D1D9"/>
+<img height="168" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Claire2039&theme=2077"/>
+<img height="168" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Claire2039&theme=2077"/>
 
 <br/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Claire2039&theme=synthwave&hide_border=true&background=0D1117&ring=FF1493&fire=00CED1&currStreakLabel=FF1493"/>
+<img height="168" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Claire2039&theme=2077"/>
+<img height="168" src="https://github-readme-streak-stats.herokuapp.com/?user=Claire2039&theme=highcontrast&hide_border=true&background=0D1117&ring=FF1493&fire=00CED1&currStreakLabel=FF1493&dates=9FE2BF"/>
 
 </div>
 
@@ -113,32 +114,49 @@ fun_fact: "做过一条会发光的霓虹贪吃蛇 🐍"
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-<a href="https://github.com/Claire2039/course-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Claire2039&repo=course-system&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=00CED1&text_color=C9D1D9" alt="course-system"/>
-</a>
+<h3 align="center">🎓 <a href="https://github.com/Claire2039/course-system">选课系统</a></h3>
+<p align="center"><em>前后端分离全栈工程 · 已上线运行</em></p>
 
-<br/>
+<p align="center">
+🛡️ 防超卖选课引擎<br/>
+⚡ SSE 实时通知 · 🔐 三角色认证<br/>
+🐳 Docker 一键部署 · 📊 压测验证<br/>
+<strong>✅ 8 个里程碑全部完成</strong>
+</p>
+
+<p align="center">
 <a href="https://github.com/Claire2039/course-system"><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/></a>
 <a href="https://github.com/Claire2039/course-system"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/></a>
 <a href="https://github.com/Claire2039/course-system"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
+</p>
 
-**8 个里程碑全部完成 · 已上线运行** 🚀
+<p align="center">
+<a href="http://114.55.96.132"><img src="https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E6%BC%94%E7%A4%BA-114.55.96.132-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+</p>
 
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-<a href="https://github.com/Claire2039/tqs">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Claire2039&repo=tqs&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=00CED1&text_color=C9D1D9" alt="tqs neon snake"/>
-</a>
+<h3 align="center">🐍 <a href="https://github.com/Claire2039/tqs">霓虹贪吃蛇</a></h3>
+<p align="center"><em>赛博朋克小游戏 · 浏览器免下载</em></p>
 
-<br/>
+<p align="center">
+🌈 5 套霓虹皮肤 · 🎚️ 三档难度<br/>
+🏆 本地排行榜 · 🔊 电子合成音效<br/>
+✨ 辉光粒子 · CRT 扫描线<br/>
+<strong>🎮 浏览器打开即玩</strong>
+</p>
+
+<p align="center">
 <a href="https://github.com/Claire2039/tqs"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 <a href="https://github.com/Claire2039/tqs"><img src="https://img.shields.io/badge/pygame--ce-00BB2D?style=flat-square&logo=python&logoColor=white"/></a>
-<a href="https://claire2039.github.io/tqs"><img src="https://img.shields.io/badge/%F0%9F%8E%AE_%E5%9C%A8%E7%BA%BF%E8%AF%95%E7%8E%A9-22c55e?style=flat-square"/></a>
+</p>
 
-**霓虹赛博朋克 · 5 套皮肤 · 浏览器免下载** 🐍
+<p align="center">
+<a href="https://claire2039.github.io/tqs"><img src="https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E8%AF%95%E7%8E%A9-FF1493?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+</p>
 
 </td>
 </tr>
